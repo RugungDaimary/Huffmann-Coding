@@ -1,4 +1,5 @@
-#HUFFMANN CODING 
+**HUFFMANN CODING **
+
 Overview:
 
 1. The provided code is an implementation of Huffman Coding, a data compression algorithm.
