@@ -1,4 +1,4 @@
-**HUFFMANN CODING **
+HUFFMANN CODING 
 
 Overview:
 
